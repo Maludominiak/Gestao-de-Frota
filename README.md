@@ -1,5 +1,3 @@
-# Gestao-de-Frota
-
 # Sistema de Gerenciamento de Veículos 🚗🚛
 
 Projeto em C++ que simula uma **frota de veículos** (carros de passeio e caminhões), calculando custos de manutenção com base na quilometragem.  
