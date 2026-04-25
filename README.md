@@ -1,9 +1,5 @@
 # Gestao-de-Frota
 
-Aqui está um **README.md** para o projeto de gerenciamento de veículos que você compartilhou:
-
----
-
 # Sistema de Gerenciamento de Veículos 🚗🚛
 
 Projeto em C++ que simula uma **frota de veículos** (carros de passeio e caminhões), calculando custos de manutenção com base na quilometragem.  
@@ -89,7 +85,3 @@ Ele pode ser usado como **material de estudo** para entender:
 - Herança e especialização de classes
 - Polimorfismo em métodos virtuais
 - Gerenciamento de memória dinâmica em C++
-
----
-
-Quer que eu prepare também um **diagrama UML** mostrando as relações entre Veiculo, CarroPasseio, Caminhao e GerenciadoraVeiculos?
